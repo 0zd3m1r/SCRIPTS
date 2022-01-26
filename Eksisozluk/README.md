@@ -1,7 +1,7 @@
 Ekşisözlük için toplu kullanıcı engelleme scripti.
  
 #Cookie bilgisi kaydetme
-Chrome için Get Cookies.txt eklentisi kur ve www.eksisozluk.com'da kullanıcı girişi yap.
+Chrome için Get Cookies.txt eklentisi kur ve www.eksisozluk.com kullanıcı girişi yap.
 Giriş yapıldıktan sonra eklenti ile cookie bilgilerini Export et.
 Bir doküman editörü ile export edilen dosya açıp, # ile başlayan ilk üç satır ve altındaki boş satırı silerek cookie.txt olarak python dosyasının bulunduğu dizine kopyala.
 
