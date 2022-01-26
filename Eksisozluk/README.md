@@ -1,4 +1,4 @@
-Ekşisözlük için toplu kullanıcı engelleme scripti.
+Python Selenium modülü ile Ekşisözlük için toplu kullanıcı engelleme scripti.
  
 #Cookie bilgisi kaydetme
 Chrome için Get Cookies.txt eklentisi kur ve www.eksisozluk.com kullanıcı girişi yap.
